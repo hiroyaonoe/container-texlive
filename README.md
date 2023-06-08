@@ -1,2 +1,6 @@
 # container-texlive
-texlive用のContainer Imageを管理する
+This repository manage container image for Texlive.
+
+```
+docker pull ghcr.io/hiroyaonoe/texlive
+```
